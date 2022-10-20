@@ -31,6 +31,7 @@ void dumpState(){
   blinkLed(15,1000);
 }
 
+//Watch out for gamma ray bursts, thunderstorms or nuclear EMPs
 void self_check(uint16_t len) { 
   int n = 0;
   int strl = strlen(selfCheckString);
