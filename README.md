@@ -1,4 +1,4 @@
-# -----BEGIN RULES FOR THE HARDWARE CHALLENGE----- 
+# ----BEGIN RULES FOR THE HARDWARE CHALLENGE---- 
 ## READ THESE RULES CAREFULLY. FAILURE TO FOLLOW ANY OF THE RULES WILL RESULT IN IMMEDIATE CTF DISQUALIFICATION!
 
 - Leave all the hardware **EXACTLY** as you found it. We will check after each hack attempt.
@@ -7,9 +7,9 @@
 - Due to time constrains, a lot of information is provided. Read **all** the provided material before trying to hack it, otherwise there might not be enough time to do so.
 - When in doubt, ask first!
 
-# -----END RULES FOR THE HARDWARE CHALLENGE----- 
+# ----END RULES FOR THE HARDWARE CHALLENGE---- 
 <br><br>
-# -----BEGIN INFO FOR THE HARDWARE CHALLENGE----- 
+# ----BEGIN INFO FOR THE HARDWARE CHALLENGE---- 
 ### Someone got hold of some information and dropped it here in this repo in a hurry. 
 
 There are some files, that seem to be an X-Ray and partial code snippets of what is running on the device(s).
@@ -25,10 +25,10 @@ https://www.youtube.com/watch?v=-AXetJvTfU0
 https://www.youtube.com/watch?v=niRCKUliQWs
 
 
-<sub><sub><sub>Follow the white rabbit, erm, wire!</sub></sub></sub>
-# -----END INFO FOR THE HARDWARE CHALLENGE----- 
+<sub><sub><sub>	&#128007; Follow the white rabbit, erm, wire! 	&#128007;</sub></sub></sub>
+# ----END INFO FOR THE HARDWARE CHALLENGE---- 
 <br><br>
-# -----BEGIN FAQ FOR THE HARDWARE CHALLENGE-----
+# ----BEGIN FAQ FOR THE HARDWARE CHALLENGE----
 - Q. Something seems wrong!
 
 A1. Wait a couple of seconds. 
@@ -47,4 +47,4 @@ A1. The wire might not be for what you initially think it is for.
  
 A2. A small air loop is more than enough.
 
-# -----END FAQ FOR THE HARDWARE CHALLENGE-----
+# ----END FAQ FOR THE HARDWARE CHALLENGE----
